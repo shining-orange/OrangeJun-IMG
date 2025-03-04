@@ -34,7 +34,7 @@
             <img class="w-8" src="@/assets/images/footer/blog.svg" />
           </a>
         </div>
-        <span class="w-full font-bold text-lg text-center">骤雨重山图床</span>
+        <span class="w-full font-bold text-lg text-center">橘子图床</span>
       </section>
     </main>
   </footer>
