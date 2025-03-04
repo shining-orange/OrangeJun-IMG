@@ -24,13 +24,13 @@
       </section>
       <section class="flex flex-col items-center gap-2">
         <div class="flex gap-6">
-          <a title="打赏站长" target="_blank" href="/reward.webp">
+          <a title="要飯的碗" target="_blank" href="/reward.webp">
             <img class="w-8" src="@/assets/images/footer/shang.svg" />
           </a>
-          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/uxiaohan">
+          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/shining-orange">
             <img class="w-8" src="@/assets/images/footer/github.svg" />
           </a>
-          <a title="韩小韩博客" target="_blank" href="https://www.vvhan.com/">
+          <a title="橘子博客" target="_blank" href="http://121.37.249.79:81//">
             <img class="w-8" src="@/assets/images/footer/blog.svg" />
           </a>
         </div>
