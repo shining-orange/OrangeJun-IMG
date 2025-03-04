@@ -2,7 +2,7 @@
   <footer class="w-full max-w-[1666px] mt-36 pb-4">
     <main class="m-auto pt-4 flex flex-col-reverse md:flex-row justify-between gap-2 md:gap-16 w-full max-w-[1666px] border-t">
       <section class="[&>p]:text-xs [&>p]:w-full [&>p]:py-[6px] [&>p]:text-center md:[&>p]:text-left [&>p>a]:text-slate-400">
-        <p>骤雨重山图床 是 <a href="https://www.vvhan.com" target="_blank" title="韩小韩博客">韩小韩博客</a> 支持并维护的文件上传项目，致力于为用户提供稳定的永久存储服务。</p>
+        <p>橘子图床 是 <a href="http://121.37.249.79:81/" target="_blank" title="橘子博客">橘子博客</a> 支持并部署的文件上传项目，致力于为用户提供稳定的永久存储服务。</p>
         <p class="text-red-600">注意:上传违反中国大陆、香港及美国法律的图片将会直接删除，并封禁设备IP。</p>
         <p class="flex gap-2 justify-center md:justify-start">
           <a href="https://pages.cloudflare.com" target="_blank">
