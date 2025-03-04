@@ -30,7 +30,7 @@
           <a title="Github" target="_blank" rel="nofollow" href="https://github.com/shining-orange">
             <img class="w-8" src="@/assets/images/footer/github.svg" />
           </a>
-          <a title="橘子博客" target="_blank" href="http://121.37.249.79:81//">
+          <a title="橘子博客" target="_blank" href="http://121.37.249.79:81">
             <img class="w-8" src="@/assets/images/footer/blog.svg" />
           </a>
         </div>
