@@ -24,9 +24,6 @@
       </section>
       <section class="flex flex-col items-center gap-2">
         <div class="flex gap-6">
-          <a title="要飯的碗" target="_blank" href="/reward.webp">
-            <img class="w-8" src="@/assets/images/footer/shang.svg" />
-          </a>
           <a title="Github" target="_blank" rel="nofollow" href="https://github.com/shining-orange">
             <img class="w-8" src="@/assets/images/footer/github.svg" />
           </a>
